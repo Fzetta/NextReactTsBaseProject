@@ -6,13 +6,9 @@ import {
 
 export const sideBarData = [
   {
-    title: "Home",
+    title: "Taller 1",
     path: "/",
     icon: <HomeIcon />,
   },
-  {
-    title: "Productos",
-    path: "/products",
-    icon: <ArchiveBoxIcon />,
-  }
+
 ];

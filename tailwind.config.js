@@ -65,7 +65,8 @@ module.exports = {
         //Yellow
         yellow: "#FCCD00",
         "alert-yellow": "#E5BE40",
-
+        "notso-yellow": "#c4bd99",
+        
         //Pink
         pink: "#ED88A6",
 
